@@ -1,3 +1,6 @@
+# String Concatenation Practice Problems
+
+# How to use this file:
 # Copy this to your python (.py) file, and write your code in the given space
 
 ################################### Q1 ###################################
