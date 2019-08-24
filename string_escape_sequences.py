@@ -4,7 +4,7 @@
 # Copy this to your python (.py) file, and write your code in the given space
 
 ################################### Q1 ###################################
-# Write a program prints this correctly:                                 #
+# Write a program that prints this correctly:                                 #
 #                                                                        #
 # Hello World, how's it going?                                           #
 # 	I hope all is well                                                   # 
