@@ -1,4 +1,4 @@
-# Copy this to your python file, and write your code in the given space
+# Copy this to your python (.py) file, and write your code in the given space
 
 ################################### Q1 ###################################
 # Write a program that takes in user's fathers and mothers full names,   #
